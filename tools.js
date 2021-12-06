@@ -5,7 +5,7 @@ let eraserToolCont = document.querySelector('.eraser_tool_cont')
 let pencil = document.querySelector('.pencil')
 let eraser = document.querySelector('.eraser')
 
-let menuFlag = false; // true means tools will be shown , false means tools will be closed
+let menuFlag = true; // true means tools will be shown , false means tools will be closed
 let pencilToolFlag = false
 let eraserToolFlag = false
 
